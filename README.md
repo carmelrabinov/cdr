@@ -1,2 +1,1 @@
-# contrastive-domain-randomization
-contrastive domain randomization
+# Contrastive Domain Randomization
