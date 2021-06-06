@@ -1,1 +1,5 @@
-# Contrastive Domain Randomization - Code will be available soom
+# Contrastive Domain Randomization
+
+## installation
+
+## Generate data
