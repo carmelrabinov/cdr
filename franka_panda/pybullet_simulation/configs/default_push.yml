@@ -1,0 +1,12 @@
+######################
+# Camera
+######################
+camera_params: {"position": [0., 0.6, -0.95], "target": [0., 0., -0.5], "fov": 40.}
+image_width: 128
+image_hight: 128
+random_camera: False
+
+###################
+# Environment
+##################
+load_frame: False
